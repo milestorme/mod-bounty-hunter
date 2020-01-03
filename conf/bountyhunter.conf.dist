@@ -1,0 +1,14 @@
+[worldserver]
+
+###################################################################################################
+#	BOUNTY HUNTER
+###################################################################################################
+
+# Enable the module? (1: true | 0: false)
+
+BountyHunter.Enable = 1
+
+
+# Announce the module when the player logs in? (1: true | 0: false)
+
+BountyHunterAnnounce.Enable = 1
