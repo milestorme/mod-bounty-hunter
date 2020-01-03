@@ -14,5 +14,5 @@
 4. Launch worldserver, Ready to play.
 
 ## Credits
-* [PrivateDonut: Original Script](http://www.ac-web.org/forums/showthread.php?173109-Bounty-Hunter-Updated)
+* [PrivateDonut: Original Script from here:](http://www.ac-web.org/forums/showthread.php?173109-Bounty-Hunter-Updated)
 * [Micrah: Updated / Modulised](https://github.com/milestorme) 
