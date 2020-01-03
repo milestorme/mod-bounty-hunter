@@ -1,5 +1,7 @@
 /* Copyright 
-Author : privatedonut
+original script: Sydess
+updated Script: Paranoia
+released : privatedonut
 Reworked : Micrah
 Version : 3.3.5 
 Bounty Hunter.
