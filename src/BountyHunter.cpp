@@ -539,8 +539,7 @@ public:
             std::string cfg_file = conf_path + "/bountyhunter.conf";
 
             std::string cfg_def_file = cfg_file + ".dist";
-            sConfigMgr->LoadMore(cfg_def_file.c_str());
-            sConfigMgr->LoadMore(cfg_file.c_str());
+         
         }
     }
 };
